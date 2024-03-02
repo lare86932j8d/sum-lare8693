@@ -1,0 +1,27 @@
+{
+  "name": "sum-lare8693",
+  "version": "1.0.0",
+  "description": "Một thư viện giúp bạn tính tổng của 2 số bất kỳ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "sum-lare8693": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lare86932j8d/sum-lare8693"
+  },
+  "homepage": "https://twitter.com/PestanaDel90940",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "lare8693",
+  "license": "MIT"
+}
